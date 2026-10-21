@@ -1,6 +1,7 @@
 {
   "name": "api-videojuegos",
   "version": "1.0.0",
+  "type": "module",
   "description": "API de videojuegos con Express y arquitectura en capas",
   "main": "src/app.js",
   "scripts": {
